@@ -35,6 +35,8 @@ This project implements a simplified backend order processing system using AWS e
 
 ## 📈 Architecture Diagram
 
+![Architecture Diagram](screenshots/architecture-diagram.png)
+
 
 ## 🚀 Testing the Flow
 
